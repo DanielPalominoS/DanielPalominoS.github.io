@@ -9,13 +9,14 @@ import data from '../data/projects';
 const Projects = () => (
   <Main
     title="Projects"
-    description="Learn about Michael D'Angelo's projects."
+    description="Learn about Daniel Palomino Suarez's projects."
   >
     <article className="post" id="projects">
       <header>
         <div className="title">
           <h2><Link to="/projects">Projects</Link></h2>
-          <p>A selection of projects that I&apos;m not too ashamed of</p>
+          <p>A selection of projects that I&apos;m able to share </p>
+          <p>either finshed  or in continuous development.</p>
         </div>
       </header>
       {data.map((project) => (

@@ -13,158 +13,135 @@
  */
 const work = [
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
+    name: 'Escuela Colombiana de ingeniería Julio garavito',
+    position: 'Instructor professor',
+    url: 'https://www.escuelaing.edu.co/',
     startDate: '2022-01-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    summary: `Escuela Colombiana de Ingeniería is a private institution that offers undergraduate and graduate programs in engineering sciences under the hoghest quality standrds.
+     As an instructor professor I have to complete tasks such as:`,
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Prepare material regarding electronics engineering basic knowledge.',
+      'Design activities, exams and laboratory tasks to evaluate the students’ knowledge. To achieve this task physical and virtual tools are used.',
+      'Provide feedback for the different tasks and activities completed by the students.',
+      'Provide support to students in their learning process.',
     ],
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
-    YC companies.`,
+    name: '',
+    position: 'Freelancer',
+    url: 'danielpalominos.github.io',
+    startDate: '2017',
+    summary: `I worked independently helipng people with their needs in projects or tasks related to robotics, electronics and mentoring (math, physics,etc).
+    I also worked on personal projects tryiing to involve not only my previous knowledge, but also new technologies that get my attention.`,
     highlights: [
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-      'Advise several startups in the fund.',
     ],
   },
   {
-    name: 'Arthena',
-    position: 'Co-founder & C.T.O.',
-    url: 'https://arthena.com',
-    startDate: '2014-01-01',
-    endDate: '2022-01-01',
-    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
-    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were acquired by
-    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    name: 'Universidad del Cauca',
+    position: 'Robotics with ROS course professor',
+    url: 'https://www.unicauca.edu.co/',
+    startDate: 'Oct 2023',
+    endDate: 'Dic 2023',
+    summary: `Unicauca is a public institution that offers undergraduate and graduate programs in divers fields.
+     As an instructor professor I have to complete tasks such as:`,
     highlights: [
-      'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
-      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
-      'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
+      'Planed, designed and produced support material regarding the subject, covering different areas of robotics.',
+      'Designed guides and practical activities for the students, taking advantage of simulation and virtual resources.',
+      'Evaluated students performance for the proposed activities and projects.',
+      'Provided support to students in their learning process.',
     ],
   },
   {
-    name: 'Enveritas',
-    position: 'ML Engineering Contractor',
-    url: 'http://enveritas.org',
-    startDate: '2016-09-01',
-    endDate: '2018-01-01',
-    summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
-    I joined on day one and helped build a variety of tools to collect and analyze data. I also advised
-    on technical strategy, helped hire engineers, and advised on their YC application.`,
+    name: 'Universidad El Bosque',
+    position: 'Electronics Developer and researcher',
+    url: 'https://www.unicauca.edu.co/',
+    startDate: 'Jul 2023',
+    endDate: 'Nov 2023',
+    summary: `The Ecological sanitation, Health and Environment research team 
+    from Universidad El Bosque worked in a multidisciplinary project for the 
+    development of a low cost Air Quality measurement device. As part of the 
+    team, in regards of electronics I had following duties:`,
     highlights: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM\'s, and other techniques.',
+      'Planed, designed and produced support material regarding the subject, covering different areas of robotics.',
+      'Designed guides and practical activities for the students, taking advantage of simulation and virtual resources.',
+      'Evaluated students performance for the proposed activities and projects.',
+      'Provided support to students in their learning process.',
     ],
   },
   {
-    name: 'Zenysis',
-    position: 'Software Engineering Contractor',
-    url: 'https://zenysis.com',
-    startDate: '2016-02-01',
-    endDate: '2016-03-01',
-    summary: `Zenysis develops data analysis and visualization tools for government agencies and international organizations.
-    Their solutions help improve decision-making by integrating and analyzing large-scale datasets from various sources.
-    I was the second contributor to the codebase. We built data visualization tools and tackled complex data ingestion
-    challenges for the Ethiopian Ministry of Health.`,
+    name: 'Sofistic Cybersecurity',
+    position: 'SOC Analyst',
+    url: 'https://www.sofistic.com/en/',
+    startDate: 'Feb 2023',
+    endDate: 'Sept 2023',
+    summary: `As part of 480 group, Sofistic specializes in offering novel and efficient
+    cybsersecurity solutions for their clients, keeping clients operations safe 24/7.
+    My activities as a SOC analyst include.`,
     highlights: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'Was in charge of monitoring, analysing and reporting possible threats detected by tools such as Darktrace, Crowdstrike, Exabeam and Microsoft Sentinel. ',
+      'Worked and collaborated with team-members of different locations and time-zones to provide the best possible availability and quality service for the clients.',
+      'Led meetings presented to clients in order to follow up pending tickets, as well as provide reports and recommendations regarding the operation to get a better security posture',
+      'Provided training to clients in regards of the management and use of the tools/software',
     ],
   },
   {
-    name: 'Matroid',
-    position: 'Co-founder',
-    url: 'https://matroid.com',
-    startDate: '2015-07-01',
-    endDate: '2016-01-01',
-    summary: `Matroid is a computer vision platform for creating and deploying detectors. Detectors help customers identify objects,
-    events, or patterns in images and videos without requiring machine learning or coding expertise. I played a crucial role in
-    defining the company's vision. I was responsible for architecting and building the initial product. I left shortly after the
-    Series A to focus on Arthena.`,
+    name: 'Millenium',
+    position: 'Reasearch and development Engineer',
+    url: 'https://millenium.com.co/',
+    startDate: 'Mar 2020',
+    endDate: 'Dece 2022',
+    summary: `Thorugh more than 20 years of experience supporting the clients with effcient magament of their processes
+    Millenium has stand out in the Colombian BPO market by offering cuting edge solutions in RPA/RDA, Contact Center, AI 
+    and business intelligence (BI) having a mindset around digital transformation. As part of the research and development
+    team (R&D) I had to face many challenges anc perform task like:`,
+    // summary: `Más de 20 años de experiencia en el mercado Colombiano apoyando a
+    //  nuestros aliados en la gestión eficiente de sus procesos. A través de nuestras
+    //  soluciones en RPA/RDA, Contact Center, Inteligencia Artificial e Inteligencia
+    //  de Negocios, somos la mejor opción para enfrentar los retos de la
+    //  transformación digital.`,
     highlights: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Caffe, Node.JS, Redis, MongoDB, and other technologies.',
+      'Supported and participated in the continuous development of hardware and software for robotics platforms and bio-metric access control, with a major focus in aerial vehicles',
+      'Developed and deployed an aerial data acquisition system for semi-indoor environments (greenhouse) with centimeter positioning capacity whose collected data was used to feed AI Models',
+      'Generated documentation associated with the developments and processes (repositories, manuals, technical documents).',
+      'Managed and led the data acquisition operation using aerial robots within greenhouse environments',
+      'Planned, generated and validated automated missions for the aerial system.',
+      'Developed, monitored and maintained software tools to store data locally and in the cloud.',
+      'Assembled,mainteined and fine tuned aerial vehicles, positioning and communication systems hardware.',
+      'Instructed drone operators to manage the aerial vehicles.',
+      'Conducted, research, exploration and testing process about state of the art techniques, algorithms and methodologies. for robotics, computer vision and natural language processing to improve the available company solutions. ',
     ],
   },
   {
-    name: 'Planet',
-    position: 'Missions Intern',
-    url: 'https://planet.com',
-    startDate: '2014-06-01',
-    endDate: '2015-01-01',
+    name: 'Escuela Colombina de ingeniería Julio Garavito',
+    position: 'Graduated assistant',
+    url: 'https://millenium.com.co/',
+    startDate: 'Mar 2020',
+    endDate: 'Dece 2022',
+    summary: `Escuela Colombiana de Ingeniería is a private institution that offers undergraduate and graduate programs in engineering sciences under the hoghest quality standrds.
+    I worked as graduated assistant while attending the master performing tasks such as:`,
     highlights: [
-      'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
+      'Designed and developed autonomous path‑planning algorithm for unmanned aerial vehicles in agricultural environments.',
+      'Implemented computer vision techniques to identify agricultural environments using the Nvidia Jetson TX2 SBC.',
+      'Perform Software in the loop (SIL) and Hardware in the loop (HIL) simulations for testing purposes.',
+      'Supported the development of the university’s RoboCup project.',
+      'Searched, adviced and supported the process of hardware selection for the robots components and environment.',
+      'Developed, monitored and maintained software tools to store data locally and in the cloud.',
+      'Developed software features for the robot team control software.',
     ],
   },
-  {
-    name: 'Planetary Resources',
-    position: 'Avionics Intern',
-    startDate: '2014-01-01',
-    endDate: '2014-05-01',
-    url: 'http://planetaryresources.com',
-    highlights: [
-      'Developed simulations in Matlab for Attitude Determination and Control Subsystem.',
-      'Developed processes for in lab testing and characterization of various subsystems.',
-      'Assembled flight hardware in cleanroom.',
-    ],
-  },
-  {
-    name: 'Facebook',
-    position: 'Software Engineer Intern',
-    url: 'https://facebook.com',
-    startDate: '2013-06-01',
-    endDate: '2013-09-01',
-    highlights: [
-      'Developed software in python for automated testing of servers.',
-      'Performed statistical analysis with R, HIVE to assist in triage of malfunctioning servers.',
-      'Worked with vendors and ODM\'s during triage to assist in risk mitigation.',
-    ],
-  },
-  {
-    name: 'SEDS-USA',
-    position: 'At Large Board Member',
-    url: 'http://seds.org',
-    startDate: '2013-10-01',
-    endDate: '2014-10-01',
-    highlights: [
-      'Elected to Board of Directors of the USA\'s largest student space advocacy group based on 5+ years of work with SEDS.',
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
-    ],
-  },
-  {
-    name: 'UB Nanosatellite Program',
-    position: 'Co-founder, Program Manager',
-    url: 'https://ubnl.space/',
-    startDate: '2010-10-01',
-    endDate: '2012-06-01',
-    highlights: [
-      'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
-    ],
-  },
+  // {
+  //   name: 'Avantel (currently known as WOM)',
+  //   position: 'Co-founder & C.T.O.',
+  //   url: 'https://www.wom.co/fusion',
+  //   startDate: '2014-01-01',
+  //   endDate: '2022-01-01',
+  //   summary: `job
+  //   des`,
+  //   highlights: [
+  //     'highlight ',
+  //     'highlight .',
+  //   ],
+  // },
 ];
 
 export default work;
